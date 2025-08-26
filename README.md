@@ -1,38 +1,34 @@
-# 🧠 Data Engineering & Analytics Portfolio
+# 📊 Excel Sales Dashboard – Olist Dataset
 
-This repository showcases a selection of projects that demonstrate my skills and experience in working with data using various tools and technologies, including:
+This project demonstrates my Excel skills using Power Query, Power Pivot, and dashboard design.  
+The dataset comes from [Olist Brazilian E-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-- **Excel** ()
-- **SQL** 
-- **Power BI** 
-- **Python** 
-- **Azure** 
-- **Artificial Intelligence** 
+## 🔧 Tools & Features
 
-Each project includes:
-- Clean and commented code or reports
-- Project descriptions with goals, tools, and outcomes
-- Visuals or dashboards (where applicable)
-- Summary of insights and personal learnings
+- Power Query: data import, cleaning, merging tables
+- Power Pivot: relationships, calculated columns, KPIs
+- Dashboard: interactive slicers, buttons, visuals
 
----
+## 📁 Data Sources
 
-## Project Structure
+- `olist_orders_dataset.csv`
+- `olist_customers_dataset.csv`
+- `olist_products_dataset.csv`
 
-| Project | Technologies | Description |
-|---------|--------------|-------------|
+## 🎯 KPIs & Insights
 
+- Total Sales
+- Number of Orders
+- Revenue by Product Category
+- Orders by Customer State
+- Monthly Sales Trend
 
----
+## 🧠 Personal Learnings
 
-## About Me
-
-I’m a data enthusiast with a strong interest in data engineering, analytics, and business intelligence. I enjoy solving complex problems, building clean and interactive dashboards, and working with both structured and unstructured data.
-
-Currently expanding my skills in cloud technologies and machine learning, and actively looking for opportunities in remote or international roles.
+- Built a star schema in Excel
+- Practiced dynamic visuals and KPI cards
+- Improved ETL process design with Power Query
 
 ---
 
-> 📌 *This portfolio is continuously evolving – more projects coming soon!*
->
-> #Warning
+📂 Check out the Excel file for a working interactive dashboard!
